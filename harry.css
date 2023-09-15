@@ -1,0 +1,24 @@
+p {
+    text-align: center;
+    color: green;
+    font-family: arial;
+}
+
+#para1 {
+    text-align: center;
+    color: red;
+}
+
+.para1 {
+    text-align: center;
+    color: purple;
+}
+
+h1.center {
+    color: blue;
+    text-align: right;
+}
+
+body {
+    background-color: yellow;
+}
